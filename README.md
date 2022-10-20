@@ -9,7 +9,7 @@
  
 <p align="left"> <a href="https://www.linkedin.com/in/sharayu-waghapure-57631820a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SharayuWaghapure" /></a> </p>
 
-- 🔭 I’m currently working on **To-Do list Application using React.js**
+- 🔭 I’m currently working on **Project named as Secure Messenger using Android and Java**
 
 - 🌱 I’m currently learning **MERN stack for Web Development**
 
